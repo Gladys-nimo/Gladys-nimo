@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on any competitive projects.
 - 🤔 I’m looking for help with writing test using Kotlin.
 - 💬 Ask me about any tech related staff.
-- ⚡ Fun fact: I like listening to music and taking a cup of coffeE to make my code clean and readable
+- ⚡ Fun fact: I like listening to music and taking a cup of coffee to make my code clean and readable
